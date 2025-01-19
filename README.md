@@ -23,7 +23,7 @@ DESCRIPTION: A simple weather application that allows users to check the current
 
  1.Clone the repository
  ```bash
-   git clone https://github.com/gaganmandal7492/Codtech_Intern_React.js_task.git
+   git clone https://github.com/gaganmandal7492/TASK1_weather_app.git
  ```
  2.Navigate to the project directory:
  ```bash
