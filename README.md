@@ -1,11 +1,13 @@
-COMPANY: CODTECH IT SOLUTIONS<br>
-NAME: Gagan Mandal<br>
-INTERN: CT08JWM<br>
-DOMAIN: React.js Web Development<br>
-BATCH DURATION: January 5th, 2025 to February 5th, 2025<br>
-MENTOR NAME: Neela Santhosh Kumar<br>
+**COMPANY**: CODTECH IT SOLUTIONS<br>
+**NAME**: Gagan Mandal<br>
+**INTERN**: CT08JWM<br>
+**DOMAIN**: React.js Web Development<br>
+**BATCH DURATION**: January 5th, 2025 to February 5th, 2025<br>
+**MENTOR NAME**: Neela Santhosh Kumar<br>
 
-DESCRIPTION: A simple weather application that allows users to check the current weather conditions for any city. The app uses data from a reliable weather API to display information like temperature, humidity, wind speed, and other weather details.
+# DESCRIPTION:
+      A simple weather application that allows users to check the current weather conditions for any city. The app uses data from a 
+      reliable weather API to display information like temperature, humidity, wind speed, and other weather details.
 
 ## Features
   - Search weather by city name.
