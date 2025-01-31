@@ -29,7 +29,7 @@
  ```
  2.Navigate to the project directory:
  ```bash
-    cd TASK1_Weather_app
+    cd weather_app
  ```
 
  3.Install dependencies:
