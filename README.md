@@ -25,7 +25,7 @@
 
  1.Clone the repository
  ```bash
-   git clone https://github.com/gaganmandal7492/TASK1_weather_app.git
+   git clone https://github.com/gaganmandal7492/weather_app.git
  ```
  2.Navigate to the project directory:
  ```bash
